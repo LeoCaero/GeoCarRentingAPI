@@ -1,0 +1,1 @@
+{"id":"f213e92b-ecd0-4306-892b-743833964e39","space":19727,"runtime":"python3.9","name":"GeoCarRentingAPI","path":"x46vog","project":"a0go1xka","account":"144798365827","region":"eu-central-1","deps":["fastapi","motor","pydantic[email]"],"envs":null,"public":true,"log_level":"debug","cron":""}
